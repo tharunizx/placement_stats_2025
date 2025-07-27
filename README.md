@@ -129,7 +129,6 @@ ctc_range
 5–7      21
 7–10     34
 10+       0
-Name: count, dtype: int64
 
 --- Top 5 Highest Paid Students ---
      student_name                   company               designation  ctc
