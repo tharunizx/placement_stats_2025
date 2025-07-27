@@ -16,12 +16,18 @@ The insights are generated using Python with `pandas` for data processing and ba
 # How to run :
 
 1. Clone the repository
-   git clone https://github.com/tharunizx/placement_stats_2025.git
+   
+   git clone https://github.com/tharunizx/placement_stats_2025.git  
    cd placement_stats_2025
+   
 2. Install pandas and tabulate for computing statistics and formating data:
+   
    pip install pandas tabulate
-3.Place your Excel file (e.g., placements.xlsx) in the project directory and also makesure to rename the file name in the python file.
-4.Run the python file:
-  python placement_analysis.py
+   
+3. Place your Excel file (e.g., placements.xlsx) in the project directory and also makesure to rename the file name in the python file.
+   
+4. Run the python file:
+   
+   python py.py
 
 
